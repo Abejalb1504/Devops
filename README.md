@@ -4,10 +4,10 @@
 # Indice
 
 * **INDICE**
-    1. [Introducción](/Documentación/1.-Introduccion.md)
-    2. [Administrador de sistemas](/Documentación/2.-Administrador%20de%20sistemas.mdD)
-    3. [Desarrollador](/Documentación/3.-Desarrollador.md)
-    4. [Devops](/Documentación/4.-Devops.md)
+    1. [Introducción](/Documentacion./1.-Introduccion.md)
+    2. [Administrador de sistemas](/Documentacion./2.-Administrador%20de%20sistemas.mdD)
+    3. [Desarrollador](/Documentacion./3.-Desarrollador.md)
+    4. [Devops](/Documentacion./4.-Devops.md)
 * **REFERENCIAS**
 
     * [Introducción al devops](https://educacionadistancia.juntadeandalucia.es/centros/sevilla/pluginfile.php/1047153/mod_label/intro/Introducci%C3%B3n%20a%20Devops.pdf)
