@@ -5,7 +5,7 @@
 
 * **INDICE**
     1. [Introducción](/Documentacion./1.-Introduccion.md)
-    2. [Administrador de sistemas](/Documentacion./2.-Administrador%20de%20sistemas.mdD)
+    2. [Administrador de sistemas](/Documentacion./2.-Administrador de sistemas.md)
     3. [Desarrollador](/Documentacion./3.-Desarrollador.md)
     4. [Devops](/Documentacion./4.-Devops.md)
 * **REFERENCIAS**
