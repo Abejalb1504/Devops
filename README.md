@@ -1,5 +1,5 @@
 # Introduccion a Devops
-![Titulo](/Imagenes/Titulo.png)
+![Titulo](/Imagenes./Titulo.png)
 
 # Indice
 
